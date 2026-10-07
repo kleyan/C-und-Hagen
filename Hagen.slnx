@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/csharp/" />
+  <Folder Name="/csharp/001_Einstieg/">
+    <Project Path="csharp/001_Einstieg/Einstieg.csproj" />
+  </Folder>
+</Solution>
